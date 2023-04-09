@@ -61,4 +61,4 @@ Details of the machine on which the webapp was tested:
 - Operating System: Elementary OS 5.1 (Hera)
 - Terminal: Bash
 - Processor: Intel Core i7-8750H CPU @ 2.20 GHz 2.21 GHz
-- RAM: 16 GB
+- RAM: 8-16 GB
